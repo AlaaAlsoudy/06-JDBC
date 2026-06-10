@@ -1,0 +1,22 @@
+Contact Notes
+
+1) Ahmed Mahmoud is a software engineer living in Cairo.
+2) Sara Ali is a teacher from Giza.
+3) John Doe works as an engineer in Alexandria.
+4) Laila Hassan is a doctor from Mansoura.
+5) Omar Farouk is a designer from Tanta.
+6) Mona Adel works in human resources in Port Said.
+7) Khalid Mohamed is an accountant from Suez.
+8) Rahma Rafik works as a marketing manager in Ismailia.
+9) Youssef Nabil is a web developer from Aswan.
+10) Nour Sherif works as a pharmacist in Marsa Matrouh.
+
+Contact book sample notes:
+- Keep names, phone numbers, emails, and professions updated.
+- Use birthdate for reminders and age-related searches.
+- Store website links for professional contacts.
+- This file is used for testing CLOB operations in SQL Server.
+- The contact table contains personal and professional information.
+- Each record can be read, updated, inserted, or deleted through JDBC.
+
+End of contact notes.
