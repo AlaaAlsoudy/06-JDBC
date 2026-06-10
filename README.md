@@ -49,7 +49,7 @@ Replace `folder-name` with the name of the folder you want to run
 
 Then use:
 ```bash
-javac JDBC_Content/src/*.java JDBC_Content/src/classes/*.java
+javac -cp "lib/*" -d bin src/classes/*.java src/*.java
 ```
 
 To run a specific file that contains the `main` method, use:
