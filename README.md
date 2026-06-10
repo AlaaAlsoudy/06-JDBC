@@ -1,4 +1,4 @@
-# Java JDBC - Database Connectivity
+# Java Database Connectivity (JDBC)
 
 This repository contains my Java JDBC (Java Database Connectivity) practice files for working with SQL Server databases.
 It includes examples and explanations of core JDBC concepts and database interaction patterns.
