@@ -17,6 +17,19 @@ It includes examples and explanations of core JDBC concepts and database interac
 - **DataSource** - Using SQLServerDataSource for connection management
 - **DAO Pattern** - Data Access Object for clean database operations
 
+## Database Setup
+
+The SQL Server schema used in this repository is available in the `database` folder.
+
+Before running any JDBC examples:
+
+- Create the `AddressBook` database.
+- Execute the provided SQL script.
+- Make sure SQL Server is running.
+- Verify that the connection URL, username, and password in the Java files match your SQL Server configuration.
+
+The script will create the database structure, sample records, stored procedures, and additional objects required by the examples.
+
 ## How to Run
 
 To devolop and run it using (Visual Studio Code) Make sure you have:
@@ -29,7 +42,12 @@ Recommended extensions:
 - Java Language Support
 
 Then open the project in VS Code and run these commands in the terminal:
+```bash
+cd folder-name
+```
+Replace `folder-name` with the name of the folder you want to run
 
+Then use:
 ```bash
 javac JDBC_Content/src/*.java JDBC_Content/src/classes/*.java
 ```
