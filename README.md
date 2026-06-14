@@ -160,6 +160,8 @@ String url =
 "jdbc:oracle:thin:@localhost:1521:xe";
 ```
 
+---
+
 ## How to Run
 
 To develop and run the project using Visual Studio Code, make sure you have:
@@ -193,3 +195,35 @@ java -cp "bin;lib/*" file-name-here
 ```
 
 Replace `file-name-here` with the name of the file/class you want to run.
+
+---
+
+## Learning Resources
+
+The following resources were used while learning and practicing JDBC concepts.
+
+### Courses
+
+#### MaharaTech JDBC Course
+
+https://maharatech.gov.eg/course/view.php?id=2246
+
+### Documentation & Tutorials
+
+#### SQL Server Tutorial
+
+https://www.sqlservertutorial.net/java-sql-server/java-connect-to-sql-server/
+
+#### GeeksforGeeks JDBC Tutorial
+
+https://www.geeksforgeeks.org/java/jdbc-tutorial/
+
+#### TutorialsPoint JDBC Tutorial
+
+https://www.tutorialspoint.com/jdbc/index.htm
+
+#### TPointTech JDBC Tutorial
+
+https://www.tpointtech.com/jdbc-tutorial
+
+---
