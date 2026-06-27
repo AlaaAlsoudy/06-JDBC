@@ -208,6 +208,10 @@ The following resources were used while learning and practicing JDBC concepts.
 
 https://maharatech.gov.eg/course/view.php?id=2246
 
+#### Youtube JDBC Course
+
+https://youtube.com/playlist?list=PLEAQNNR8IlB4R7NfqBY1frapYo97L6fOQ&si=RM5CJcgmOBOvV0CX
+
 ### Documentation & Tutorials
 
 #### SQL Server Tutorial
